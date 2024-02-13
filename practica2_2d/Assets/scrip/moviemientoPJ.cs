@@ -14,14 +14,18 @@ public class moviemientoPJ : MonoBehaviour
     //estas dos variables es pa arreglar el slato
     public bool enelsuelo;
     BoxCollider2D boxCollider;
-
     //animacion correr
     public bool correr;
     private Animator animator;
+
+    //Doble salto
+    public int dobleS;
+
     private void Start()
     {
         rigidBody = GetComponent<Rigidbody2D>();
         boxCollider = GetComponent<BoxCollider2D>();
+        animator= GetComponent<Animator>();
     }
 
 
@@ -47,6 +51,7 @@ public class moviemientoPJ : MonoBehaviour
         ProcessingMovement();
         Salto();
         enelsuelo = Comprobarsuelo();
+
     }
    private void ProcessingMovement() 
     {
@@ -73,4 +78,5 @@ public class moviemientoPJ : MonoBehaviour
             rigidBody.AddForce(Vector2.up * velSalto, ForceMode2D.Impulse);
         }
     }
+
 }
