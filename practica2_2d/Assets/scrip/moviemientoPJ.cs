@@ -19,7 +19,7 @@ public class moviemientoPJ : MonoBehaviour
     private Animator animator;
 
     // Doble salto
-    public int dobleS = 2; // Puedes ajustar el valor según tus necesidades
+    public int dobleS = 0; // Puedes ajustar el valor según tus necesidades
     private int saltosRealizados = 0;
 
     private void Start()
@@ -70,25 +70,20 @@ public class moviemientoPJ : MonoBehaviour
 
     private void Salto()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space)&&(enelsuelo || dobleS < 1))
         {
-            if (enelsuelo)
-            {
+            
+            
                 rigidBody.velocity = new Vector2(rigidBody.velocity.x, 0f);
                 rigidBody.AddForce(Vector2.up * velSalto, ForceMode2D.Impulse);
-                saltosRealizados = 1; // Primer salto realizado
-            }
-            else if (saltosRealizados < dobleS)
-            {
-                rigidBody.velocity = new Vector2(rigidBody.velocity.x, 0f);
-                rigidBody.AddForce(Vector2.up * velSalto, ForceMode2D.Impulse);
-                saltosRealizados++;
-            }
+                dobleS++; // Incrementa el número de saltos realizados
+            
         }
+
         // Restablecer la cantidad de saltos realizados cuando toca el suelo
         if (enelsuelo)
         {
-            saltosRealizados = 0;
+            dobleS = 0;
         }
     }
 }

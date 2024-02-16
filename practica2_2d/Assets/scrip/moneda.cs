@@ -20,5 +20,6 @@ public class moneda : MonoBehaviour
         Debug.Log("me toco");
         puntos.totalscore += 1;
         Destroy(this.gameObject);
+      
     }
 }
