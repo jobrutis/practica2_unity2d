@@ -137,10 +137,9 @@ GameObject:
   - component: {fileID: 61510149}
   - component: {fileID: 61510148}
   - component: {fileID: 61510147}
-  - component: {fileID: 61510146}
   m_Layer: 0
   m_Name: platano (14)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -160,22 +159,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &61510146
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 61510144}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &61510147
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -441,11 +424,10 @@ GameObject:
   - component: {fileID: 85036142}
   - component: {fileID: 85036141}
   - component: {fileID: 85036140}
-  - component: {fileID: 85036139}
   - component: {fileID: 85036138}
   m_Layer: 0
   m_Name: moneda (2)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -478,22 +460,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puntost: {fileID: 612355957}
---- !u!114 &85036139
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 85036136}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &85036140
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -940,10 +906,9 @@ GameObject:
   - component: {fileID: 222199227}
   - component: {fileID: 222199226}
   - component: {fileID: 222199225}
-  - component: {fileID: 222199224}
   m_Layer: 0
   m_Name: platano (17)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -963,22 +928,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &222199224
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 222199222}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &222199225
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1139,10 +1088,9 @@ GameObject:
   - component: {fileID: 241218274}
   - component: {fileID: 241218273}
   - component: {fileID: 241218272}
-  - component: {fileID: 241218271}
   m_Layer: 0
   m_Name: platano (1)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1162,22 +1110,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &241218271
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 241218269}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &241218272
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1413,10 +1345,9 @@ GameObject:
   - component: {fileID: 272785461}
   - component: {fileID: 272785460}
   - component: {fileID: 272785459}
-  - component: {fileID: 272785458}
   m_Layer: 0
   m_Name: platano (8)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1436,22 +1367,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &272785458
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 272785456}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &272785459
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1612,10 +1527,9 @@ GameObject:
   - component: {fileID: 324044954}
   - component: {fileID: 324044953}
   - component: {fileID: 324044952}
-  - component: {fileID: 324044951}
   m_Layer: 0
   m_Name: platano (21)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1635,22 +1549,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &324044951
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 324044949}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &324044952
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2203,10 +2101,9 @@ GameObject:
   - component: {fileID: 440228425}
   - component: {fileID: 440228424}
   - component: {fileID: 440228423}
-  - component: {fileID: 440228422}
   m_Layer: 0
   m_Name: platano (18)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2226,22 +2123,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &440228422
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 440228420}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &440228423
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2402,10 +2283,9 @@ GameObject:
   - component: {fileID: 475387355}
   - component: {fileID: 475387354}
   - component: {fileID: 475387353}
-  - component: {fileID: 475387352}
   m_Layer: 0
   m_Name: platano (23)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2425,22 +2305,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &475387352
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 475387350}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &475387353
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3008,10 +2872,9 @@ GameObject:
   - component: {fileID: 644810899}
   - component: {fileID: 644810898}
   - component: {fileID: 644810897}
-  - component: {fileID: 644810896}
   m_Layer: 0
   m_Name: platano (11)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3031,22 +2894,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &644810896
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 644810894}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &644810897
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3239,10 +3086,9 @@ GameObject:
   - component: {fileID: 712454394}
   - component: {fileID: 712454393}
   - component: {fileID: 712454392}
-  - component: {fileID: 712454391}
   m_Layer: 0
   m_Name: platano (6)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3262,22 +3108,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &712454391
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 712454389}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &712454392
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3470,10 +3300,9 @@ GameObject:
   - component: {fileID: 807678216}
   - component: {fileID: 807678215}
   - component: {fileID: 807678214}
-  - component: {fileID: 807678213}
   m_Layer: 0
   m_Name: platano (9)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3493,22 +3322,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &807678213
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 807678211}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &807678214
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4251,10 +4064,9 @@ GameObject:
   - component: {fileID: 940184637}
   - component: {fileID: 940184636}
   - component: {fileID: 940184635}
-  - component: {fileID: 940184634}
   m_Layer: 0
   m_Name: platano (4)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4274,22 +4086,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &940184634
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 940184632}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &940184635
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4664,10 +4460,9 @@ GameObject:
   - component: {fileID: 1003135126}
   - component: {fileID: 1003135125}
   - component: {fileID: 1003135124}
-  - component: {fileID: 1003135123}
   m_Layer: 0
   m_Name: platano (5)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4687,22 +4482,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1003135123
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1003135121}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &1003135124
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4946,11 +4725,10 @@ GameObject:
   - component: {fileID: 1159002676}
   - component: {fileID: 1159002675}
   - component: {fileID: 1159002681}
-  - component: {fileID: 1159002680}
   - component: {fileID: 1159002679}
   m_Layer: 0
   m_Name: moneda
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5071,22 +4849,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puntost: {fileID: 612355957}
---- !u!114 &1159002680
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1159002674}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 1514112976}
 --- !u!61 &1159002681
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5311,10 +5073,9 @@ GameObject:
   - component: {fileID: 1234689080}
   - component: {fileID: 1234689079}
   - component: {fileID: 1234689078}
-  - component: {fileID: 1234689077}
   m_Layer: 0
   m_Name: platano (20)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5334,22 +5095,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1234689077
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1234689075}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &1234689078
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5510,10 +5255,9 @@ GameObject:
   - component: {fileID: 1312235987}
   - component: {fileID: 1312235986}
   - component: {fileID: 1312235985}
-  - component: {fileID: 1312235984}
   m_Layer: 0
   m_Name: platano (7)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5533,22 +5277,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1312235984
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1312235982}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &1312235985
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5843,10 +5571,9 @@ GameObject:
   - component: {fileID: 1329888171}
   - component: {fileID: 1329888170}
   - component: {fileID: 1329888169}
-  - component: {fileID: 1329888168}
   m_Layer: 0
   m_Name: platano (3)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5866,22 +5593,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1329888168
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1329888166}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &1329888169
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6040,6 +5751,8 @@ GameObject:
   - component: {fileID: 1350080425}
   - component: {fileID: 1350080424}
   - component: {fileID: 1350080423}
+  - component: {fileID: 1350080427}
+  - component: {fileID: 1350080426}
   m_Layer: 3
   m_Name: Tilemap
   m_TagString: Untagged
@@ -28399,6 +28112,1073 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!66 &1350080426
+CompositeCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1350080421}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_GeometryType: 1
+  m_GenerationType: 0
+  m_EdgeRadius: 0
+  m_ColliderPaths:
+  - m_Collider: {fileID: 1350080423}
+    m_ColliderPaths:
+    - - X: 2800000000
+        Y: 110000000
+      - X: 2760000000
+        Y: 110000000
+      - X: 2760000000
+        Y: 10000000
+      - X: 2710000128
+        Y: 10000000
+      - X: 2710000128
+        Y: 30000000
+      - X: 2660000000
+        Y: 30000000
+      - X: 2660000000
+        Y: 20000000
+      - X: 2580000000
+        Y: 20000000
+      - X: 2580000000
+        Y: 30000000
+      - X: 2569999872
+        Y: 30000000
+      - X: 2569999872
+        Y: 40000000
+      - X: 2560000000
+        Y: 40000000
+      - X: 2560000000
+        Y: 50000000
+      - X: 2550000128
+        Y: 50000000
+      - X: 2550000128
+        Y: 60000000
+      - X: 2540000000
+        Y: 60000000
+      - X: 2540000000
+        Y: 70000000
+      - X: 2529999872
+        Y: 70000000
+      - X: 2529999872
+        Y: 60000000
+      - X: 2520000000
+        Y: 60000000
+      - X: 2520000000
+        Y: 50000000
+      - X: 2510000128
+        Y: 50000000
+      - X: 2510000128
+        Y: 40000000
+      - X: 2500000000
+        Y: 40000000
+      - X: 2500000000
+        Y: 30000000
+      - X: 2489999872
+        Y: 30000000
+      - X: 2489999872
+        Y: 20000000
+      - X: 2420000000
+        Y: 20000000
+      - X: 2420000000
+        Y: -30000000
+      - X: 2180000000
+        Y: -30000000
+      - X: 2180000000
+        Y: -70000000
+      - X: 2800000000
+        Y: -70000000
+    - - X: 1090000000
+        Y: -10000000
+      - X: 1060000000
+        Y: -10000000
+      - X: 1060000000
+        Y: 10000000
+      - X: 1020000000
+        Y: 10000000
+      - X: 1020000000
+        Y: 30000000
+      - X: 690000000
+        Y: 30000000
+      - X: 690000000
+        Y: 90000000
+      - X: 680000000
+        Y: 90000000
+      - X: 680000000
+        Y: 30000000
+      - X: 670000000
+        Y: 30000000
+      - X: 670000000
+        Y: 40000000
+      - X: 650000000
+        Y: 40000000
+      - X: 650000000
+        Y: 30000000
+      - X: 640000000
+        Y: 30000000
+      - X: 640000000
+        Y: 70000000
+      - X: 630000000
+        Y: 70000000
+      - X: 630000000
+        Y: 30000000
+      - X: 600000000
+        Y: 30000000
+      - X: 600000000
+        Y: 50000000
+      - X: 590000000
+        Y: 50000000
+      - X: 590000000
+        Y: 30000000
+      - X: 330000000
+        Y: 30000000
+      - X: 330000000
+        Y: 10000000
+      - X: 210000000
+        Y: 10000000
+      - X: 210000000
+        Y: -30000000
+      - X: -90000000
+        Y: -30000000
+      - X: -90000000
+        Y: 40000000
+      - X: -170000000
+        Y: 40000000
+      - X: -170000000
+        Y: -70000000
+      - X: 1090000000
+        Y: -70000000
+    - - X: 820000000
+        Y: 56250000
+      - X: 820625024
+        Y: 55625000
+      - X: 830000000
+        Y: 55625000
+      - X: 830000000
+        Y: 56250000
+      - X: 830625024
+        Y: 55625000
+      - X: 839374976
+        Y: 55625000
+      - X: 840000000
+        Y: 56250000
+      - X: 840000000
+        Y: 60000000
+      - X: 810000000
+        Y: 60000000
+      - X: 810000000
+        Y: 56250000
+      - X: 810625024
+        Y: 55625000
+      - X: 820000000
+        Y: 55625000
+    - - X: 740000000
+        Y: 56250000
+      - X: 740625024
+        Y: 55625000
+      - X: 750000000
+        Y: 55625000
+      - X: 750000000
+        Y: 56250000
+      - X: 750625024
+        Y: 55625000
+      - X: 759374976
+        Y: 55625000
+      - X: 760000000
+        Y: 56250000
+      - X: 760000000
+        Y: 60000000
+      - X: 730000000
+        Y: 60000000
+      - X: 730000000
+        Y: 56250000
+      - X: 730625024
+        Y: 55625000
+      - X: 740000000
+        Y: 55625000
+    - - X: 1510000000
+        Y: 30000000
+      - X: 1370000000
+        Y: 30000000
+      - X: 1370000000
+        Y: -10000000
+      - X: 1350000000
+        Y: -10000000
+      - X: 1350000000
+        Y: 0
+      - X: 1340000000
+        Y: 0
+      - X: 1340000000
+        Y: 10000000
+      - X: 1330000000
+        Y: 10000000
+      - X: 1330000000
+        Y: 20000000
+      - X: 1320000000
+        Y: 20000000
+      - X: 1320000000
+        Y: 30000000
+      - X: 1310000000
+        Y: 30000000
+      - X: 1310000000
+        Y: 40000000
+      - X: 1300000000
+        Y: 40000000
+      - X: 1300000000
+        Y: 30000000
+      - X: 1290000000
+        Y: 30000000
+      - X: 1290000000
+        Y: 20000000
+      - X: 1280000000
+        Y: 20000000
+      - X: 1280000000
+        Y: 10000000
+      - X: 1270000000
+        Y: 10000000
+      - X: 1270000000
+        Y: 0
+      - X: 1260000000
+        Y: 0
+      - X: 1260000000
+        Y: -10000000
+      - X: 1140000000
+        Y: -10000000
+      - X: 1140000000
+        Y: -70000000
+      - X: 1510000000
+        Y: -70000000
+    - - X: 2030000000
+        Y: -30000000
+      - X: 1910000000
+        Y: -30000000
+      - X: 1910000000
+        Y: 40000000
+      - X: 1900000000
+        Y: 40000000
+      - X: 1900000000
+        Y: -30000000
+      - X: 1870000000
+        Y: -30000000
+      - X: 1870000000
+        Y: 20000000
+      - X: 1860000000
+        Y: 20000000
+      - X: 1860000000
+        Y: -30000000
+      - X: 1830000000
+        Y: -30000000
+      - X: 1830000000
+        Y: 0
+      - X: 1820000000
+        Y: 0
+      - X: 1820000000
+        Y: -30000000
+      - X: 1690000000
+        Y: -30000000
+      - X: 1690000000
+        Y: 0
+      - X: 1650000000
+        Y: 0
+      - X: 1650000000
+        Y: 30000000
+      - X: 1550000000
+        Y: 30000000
+      - X: 1550000000
+        Y: -70000000
+      - X: 2030000000
+        Y: -70000000
+    - - X: 2320000000
+        Y: 26250000
+      - X: 2320624896
+        Y: 25625000
+      - X: 2329999872
+        Y: 25625000
+      - X: 2329999872
+        Y: 26250000
+      - X: 2330625024
+        Y: 25625000
+      - X: 2339375104
+        Y: 25625000
+      - X: 2340000000
+        Y: 26250000
+      - X: 2340000000
+        Y: 30000000
+      - X: 2310000128
+        Y: 30000000
+      - X: 2310000128
+        Y: 26250000
+      - X: 2310625024
+        Y: 25625000
+      - X: 2320000000
+        Y: 25625000
+    - - X: 1980000000
+        Y: -3750000
+      - X: 1980000000
+        Y: 0
+      - X: 1950000000
+        Y: 0
+      - X: 1950000000
+        Y: -3750000
+      - X: 1950625024
+        Y: -4375000
+      - X: 1979374976
+        Y: -4375000
+    - - X: 2369999872
+        Y: -3750000
+      - X: 2370625024
+        Y: -4375000
+      - X: 2380000000
+        Y: -4375000
+      - X: 2380000000
+        Y: -3750000
+      - X: 2380624896
+        Y: -4375000
+      - X: 2389374976
+        Y: -4375000
+      - X: 2390000128
+        Y: -3750000
+      - X: 2390000128
+        Y: 0
+      - X: 2360000000
+        Y: 0
+      - X: 2360000000
+        Y: -3750000
+      - X: 2360624896
+        Y: -4375000
+      - X: 2369999872
+        Y: -4375000
+    - - X: 170000000
+        Y: 0
+      - X: 130000000
+        Y: 0
+      - X: 130000000
+        Y: -10000000
+      - X: 170000000
+        Y: -10000000
+    - - X: 2260000000
+        Y: -3750000
+      - X: 2260624896
+        Y: -4375000
+      - X: 2270000128
+        Y: -4375000
+      - X: 2270000128
+        Y: -3750000
+      - X: 2270625024
+        Y: -4375000
+      - X: 2279375104
+        Y: -4375000
+      - X: 2280000000
+        Y: -3750000
+      - X: 2280000000
+        Y: 0
+      - X: 2249999872
+        Y: 0
+      - X: 2249999872
+        Y: -3750000
+      - X: 2250625024
+        Y: -4375000
+      - X: 2260000000
+        Y: -4375000
+    - - X: 2100000000
+        Y: -43750000
+      - X: 2100000000
+        Y: -44375000
+      - X: 2119374976
+        Y: -44375000
+      - X: 2120000000
+        Y: -43750000
+      - X: 2120000000
+        Y: -40000000
+      - X: 2090000000
+        Y: -40000000
+      - X: 2090000000
+        Y: -43750000
+      - X: 2090625024
+        Y: -44375000
+      - X: 2099374976
+        Y: -44375000
+    - - X: 1510000000
+        Y: -83750000
+      - X: 1510625024
+        Y: -84375000
+      - X: 1520000000
+        Y: -84375000
+      - X: 1520000000
+        Y: -83750000
+      - X: 1520625024
+        Y: -84375000
+      - X: 1529374976
+        Y: -84375000
+      - X: 1530000000
+        Y: -83750000
+      - X: 1530625024
+        Y: -84375000
+      - X: 1540000000
+        Y: -84375000
+      - X: 1540000000
+        Y: -83750000
+      - X: 1540625024
+        Y: -84375000
+      - X: 1550000000
+        Y: -84375000
+      - X: 1550000000
+        Y: -83750000
+      - X: 1550625024
+        Y: -84375000
+      - X: 1560000000
+        Y: -84375000
+      - X: 1560000000
+        Y: -83750000
+      - X: 1560625024
+        Y: -84375000
+      - X: 1569374976
+        Y: -84375000
+      - X: 1570000000
+        Y: -83750000
+      - X: 1570000000
+        Y: -80000000
+      - X: 1500000000
+        Y: -80000000
+      - X: 1500000000
+        Y: -83750000
+      - X: 1500625024
+        Y: -84375000
+      - X: 1510000000
+        Y: -84375000
+    - - X: 1090000000
+        Y: -83750000
+      - X: 1090625024
+        Y: -84375000
+      - X: 1100000000
+        Y: -84375000
+      - X: 1100000000
+        Y: -83750000
+      - X: 1100625024
+        Y: -84375000
+      - X: 1110000000
+        Y: -84375000
+      - X: 1110000000
+        Y: -83750000
+      - X: 1110625024
+        Y: -84375000
+      - X: 1120000000
+        Y: -84375000
+      - X: 1120000000
+        Y: -83750000
+      - X: 1120625024
+        Y: -84375000
+      - X: 1130000000
+        Y: -84375000
+      - X: 1130000000
+        Y: -83750000
+      - X: 1130625024
+        Y: -84375000
+      - X: 1140000000
+        Y: -84375000
+      - X: 1140000000
+        Y: -83750000
+      - X: 1140625024
+        Y: -84375000
+      - X: 1149374976
+        Y: -84375000
+      - X: 1150000000
+        Y: -83750000
+      - X: 1150000000
+        Y: -80000000
+      - X: 1080000000
+        Y: -80000000
+      - X: 1080000000
+        Y: -83750000
+      - X: 1080625024
+        Y: -84375000
+      - X: 1090000000
+        Y: -84375000
+    - - X: 2030000000
+        Y: -83750000
+      - X: 2030625024
+        Y: -84375000
+      - X: 2040000000
+        Y: -84375000
+      - X: 2040000000
+        Y: -83750000
+      - X: 2040625024
+        Y: -84375000
+      - X: 2050000000
+        Y: -84375000
+      - X: 2050000000
+        Y: -83750000
+      - X: 2050625024
+        Y: -84375000
+      - X: 2060000000
+        Y: -84375000
+      - X: 2060000000
+        Y: -83750000
+      - X: 2060625024
+        Y: -84375000
+      - X: 2070000000
+        Y: -84375000
+      - X: 2070000000
+        Y: -83750000
+      - X: 2070625024
+        Y: -84375000
+      - X: 2080000000
+        Y: -84375000
+      - X: 2080000000
+        Y: -83750000
+      - X: 2080625024
+        Y: -84375000
+      - X: 2090000000
+        Y: -84375000
+      - X: 2090000000
+        Y: -83750000
+      - X: 2090625024
+        Y: -84375000
+      - X: 2100000000
+        Y: -84375000
+      - X: 2100000000
+        Y: -83750000
+      - X: 2100625024
+        Y: -84375000
+      - X: 2110000000
+        Y: -84375000
+      - X: 2110000000
+        Y: -83750000
+      - X: 2110625024
+        Y: -84375000
+      - X: 2120000000
+        Y: -84375000
+      - X: 2120000000
+        Y: -83750000
+      - X: 2120625024
+        Y: -84375000
+      - X: 2130000000
+        Y: -84375000
+      - X: 2130000000
+        Y: -83750000
+      - X: 2130625024
+        Y: -84375000
+      - X: 2140000000
+        Y: -84375000
+      - X: 2140000000
+        Y: -83750000
+      - X: 2140625024
+        Y: -84375000
+      - X: 2150000128
+        Y: -84375000
+      - X: 2150000128
+        Y: -83750000
+      - X: 2150625024
+        Y: -84375000
+      - X: 2160000000
+        Y: -84375000
+      - X: 2160000000
+        Y: -83750000
+      - X: 2160624896
+        Y: -84375000
+      - X: 2169999872
+        Y: -84375000
+      - X: 2169999872
+        Y: -83750000
+      - X: 2170625024
+        Y: -84375000
+      - X: 2180000000
+        Y: -84375000
+      - X: 2180000000
+        Y: -83750000
+      - X: 2180624896
+        Y: -84375000
+      - X: 2189374976
+        Y: -84375000
+      - X: 2190000128
+        Y: -83750000
+      - X: 2190000128
+        Y: -80000000
+      - X: 2020000000
+        Y: -80000000
+      - X: 2020000000
+        Y: -83750000
+      - X: 2020625024
+        Y: -84375000
+      - X: 2030000000
+        Y: -84375000
+  m_CompositePaths:
+    m_Paths:
+    - - {x: 279.99997, y: -7}
+      - {x: 279.99997, y: 11}
+      - {x: 276, y: 10.99997}
+      - {x: 275.99997, y: 1}
+      - {x: 271.00003, y: 1.0000294}
+      - {x: 271, y: 3}
+      - {x: 266, y: 2.999971}
+      - {x: 265.99997, y: 2}
+      - {x: 258, y: 2.0000293}
+      - {x: 257.99997, y: 3}
+      - {x: 257, y: 3.0000293}
+      - {x: 256.99997, y: 4}
+      - {x: 256, y: 4.0000296}
+      - {x: 255.99998, y: 5}
+      - {x: 255.00002, y: 5.0000296}
+      - {x: 254.99998, y: 6}
+      - {x: 254, y: 6.0000296}
+      - {x: 253.99998, y: 7}
+      - {x: 252.99998, y: 6.9999704}
+      - {x: 252.99997, y: 6}
+      - {x: 252, y: 5.999971}
+      - {x: 251.99998, y: 5}
+      - {x: 251.00002, y: 4.999971}
+      - {x: 250.99998, y: 4}
+      - {x: 250, y: 3.999971}
+      - {x: 249.99998, y: 3}
+      - {x: 248.99998, y: 2.999971}
+      - {x: 248.99997, y: 2}
+      - {x: 242, y: 1.9999708}
+      - {x: 241.99998, y: -3}
+      - {x: 218, y: -3.0000293}
+      - {x: 218.00003, y: -7}
+    - - {x: 108.99998, y: -7}
+      - {x: 108.99998, y: -1}
+      - {x: 106, y: -0.9999706}
+      - {x: 105.99997, y: 1}
+      - {x: 102, y: 1.0000294}
+      - {x: 101.99997, y: 3}
+      - {x: 69, y: 3.0000293}
+      - {x: 68.99997, y: 9}
+      - {x: 68, y: 8.99997}
+      - {x: 67.99997, y: 3}
+      - {x: 67, y: 3.0000293}
+      - {x: 66.99997, y: 4}
+      - {x: 65, y: 3.999971}
+      - {x: 64.99997, y: 3}
+      - {x: 64, y: 3.0000293}
+      - {x: 63.99997, y: 7}
+      - {x: 63, y: 6.9999704}
+      - {x: 62.99997, y: 3}
+      - {x: 60, y: 3.0000293}
+      - {x: 59.99997, y: 5}
+      - {x: 59, y: 4.999971}
+      - {x: 58.99997, y: 3}
+      - {x: 33, y: 2.999971}
+      - {x: 32.999973, y: 1}
+      - {x: 21, y: 0.99997073}
+      - {x: 20.999971, y: -3}
+      - {x: -9, y: -2.9999707}
+      - {x: -9.00003, y: 4}
+      - {x: -17, y: 3.999971}
+      - {x: -16.999971, y: -7}
+    - - {x: 81.99997, y: 5.5625}
+      - {x: 82.00007, y: 5.6249385}
+      - {x: 82.062515, y: 5.5625}
+      - {x: 83, y: 5.562529}
+      - {x: 83.00007, y: 5.6249385}
+      - {x: 83.062515, y: 5.5625}
+      - {x: 83.93751, y: 5.5625076}
+      - {x: 84, y: 5.625011}
+      - {x: 83.99997, y: 6}
+      - {x: 81, y: 5.999971}
+      - {x: 81.00001, y: 5.6249924}
+      - {x: 81.062515, y: 5.5625}
+    - - {x: 73.99997, y: 5.5625}
+      - {x: 74.00007, y: 5.6249385}
+      - {x: 74.062515, y: 5.5625}
+      - {x: 75, y: 5.562529}
+      - {x: 75.00007, y: 5.6249385}
+      - {x: 75.062515, y: 5.5625}
+      - {x: 75.93751, y: 5.5625076}
+      - {x: 76, y: 5.625011}
+      - {x: 75.99997, y: 6}
+      - {x: 73, y: 5.999971}
+      - {x: 73.00001, y: 5.6249924}
+      - {x: 73.062515, y: 5.5625}
+    - - {x: 202.99997, y: -7}
+      - {x: 202.99997, y: -3}
+      - {x: 191, y: -2.9999707}
+      - {x: 190.99997, y: 4}
+      - {x: 190, y: 3.999971}
+      - {x: 189.99997, y: -3}
+      - {x: 187, y: -2.9999707}
+      - {x: 186.99997, y: 2}
+      - {x: 186, y: 1.9999708}
+      - {x: 185.99997, y: -3}
+      - {x: 183, y: -2.9999707}
+      - {x: 182.99997, y: 0}
+      - {x: 182, y: -0.000029300001}
+      - {x: 181.99997, y: -3}
+      - {x: 169, y: -2.9999707}
+      - {x: 168.99997, y: 0}
+      - {x: 165, y: 0.0000294}
+      - {x: 164.99997, y: 3}
+      - {x: 155, y: 2.999971}
+      - {x: 155.00003, y: -7}
+    - - {x: 150.99997, y: -7}
+      - {x: 150.99997, y: 3}
+      - {x: 137, y: 2.999971}
+      - {x: 136.99997, y: -1}
+      - {x: 135, y: -0.9999706}
+      - {x: 134.99997, y: 0}
+      - {x: 134, y: 0.0000294}
+      - {x: 133.99997, y: 1}
+      - {x: 133, y: 1.0000294}
+      - {x: 132.99997, y: 2}
+      - {x: 132, y: 2.0000293}
+      - {x: 131.99997, y: 3}
+      - {x: 131, y: 3.0000293}
+      - {x: 130.99997, y: 4}
+      - {x: 130, y: 3.999971}
+      - {x: 129.99997, y: 3}
+      - {x: 129, y: 2.999971}
+      - {x: 128.99997, y: 2}
+      - {x: 128, y: 1.9999708}
+      - {x: 127.99998, y: 1}
+      - {x: 127, y: 0.99997073}
+      - {x: 126.99998, y: 0}
+      - {x: 126, y: -0.000029300001}
+      - {x: 125.99998, y: -1}
+      - {x: 114, y: -1.0000293}
+      - {x: 114.00003, y: -7}
+    - - {x: 231.99997, y: 2.5625}
+      - {x: 232.00006, y: 2.6249382}
+      - {x: 232.06248, y: 2.5625}
+      - {x: 232.99998, y: 2.5625293}
+      - {x: 233.00005, y: 2.6249382}
+      - {x: 233.0625, y: 2.5625}
+      - {x: 233.93752, y: 2.5625076}
+      - {x: 234, y: 2.6250107}
+      - {x: 233.99998, y: 3}
+      - {x: 231.00002, y: 2.999971}
+      - {x: 231.00002, y: 2.6249924}
+      - {x: 231.0625, y: 2.5625}
+    - - {x: 236.99997, y: -0.4375}
+      - {x: 237.00005, y: -0.3750618}
+      - {x: 237.0625, y: -0.4375}
+      - {x: 238, y: -0.4374707}
+      - {x: 238.00006, y: -0.3750618}
+      - {x: 238.0625, y: -0.4375}
+      - {x: 238.9375, y: -0.4374924}
+      - {x: 239.00002, y: -0.3749892}
+      - {x: 238.99998, y: 0}
+      - {x: 236, y: -0.000029300001}
+      - {x: 236, y: -0.3750076}
+      - {x: 236.06248, y: -0.4375}
+    - - {x: 225.99997, y: -0.4375}
+      - {x: 226.00006, y: -0.3750618}
+      - {x: 226.06248, y: -0.4375}
+      - {x: 227.00002, y: -0.4374707}
+      - {x: 227.00006, y: -0.3750618}
+      - {x: 227.0625, y: -0.4375}
+      - {x: 227.93752, y: -0.4374924}
+      - {x: 228, y: -0.3749892}
+      - {x: 227.99997, y: 0}
+      - {x: 224.99998, y: -0.000029300001}
+      - {x: 224.99998, y: -0.3750076}
+      - {x: 225.0625, y: -0.4375}
+    - - {x: 197.93748, y: -0.4375}
+      - {x: 198, y: -0.3749892}
+      - {x: 197.99997, y: 0}
+      - {x: 195, y: -0.000029300001}
+      - {x: 195.00002, y: -0.3750076}
+      - {x: 195.06252, y: -0.4375}
+    - - {x: 16.999971, y: -1}
+      - {x: 16.999971, y: 0}
+      - {x: 13, y: -0.000029300001}
+      - {x: 13.00003, y: -1}
+    - - {x: 209.93748, y: -4.4375}
+      - {x: 210, y: -4.3750873}
+      - {x: 210.00003, y: -4.4375}
+      - {x: 211.93752, y: -4.4374924}
+      - {x: 212, y: -4.374989}
+      - {x: 211.99997, y: -4}
+      - {x: 209, y: -4.000029}
+      - {x: 209.00002, y: -4.3750076}
+      - {x: 209.06252, y: -4.4375}
+    - - {x: 108.99998, y: -8.4375}
+      - {x: 109.00007, y: -8.375062}
+      - {x: 109.062515, y: -8.4375}
+      - {x: 110, y: -8.43747}
+      - {x: 110.00007, y: -8.375062}
+      - {x: 110.062515, y: -8.4375}
+      - {x: 111, y: -8.43747}
+      - {x: 111.00007, y: -8.375062}
+      - {x: 111.062515, y: -8.4375}
+      - {x: 112, y: -8.43747}
+      - {x: 112.00007, y: -8.375062}
+      - {x: 112.062515, y: -8.4375}
+      - {x: 113, y: -8.43747}
+      - {x: 113.00007, y: -8.375062}
+      - {x: 113.062515, y: -8.4375}
+      - {x: 114, y: -8.43747}
+      - {x: 114.00007, y: -8.375062}
+      - {x: 114.062515, y: -8.4375}
+      - {x: 114.937515, y: -8.437493}
+      - {x: 115, y: -8.374989}
+      - {x: 114.99998, y: -8}
+      - {x: 108, y: -8.00003}
+      - {x: 108.000015, y: -8.375008}
+      - {x: 108.062515, y: -8.4375}
+    - - {x: 202.99997, y: -8.4375}
+      - {x: 203.00006, y: -8.375062}
+      - {x: 203.06252, y: -8.4375}
+      - {x: 204, y: -8.43747}
+      - {x: 204.00006, y: -8.375062}
+      - {x: 204.06252, y: -8.4375}
+      - {x: 205, y: -8.43747}
+      - {x: 205.00006, y: -8.375062}
+      - {x: 205.06252, y: -8.4375}
+      - {x: 206, y: -8.43747}
+      - {x: 206.00006, y: -8.375062}
+      - {x: 206.06252, y: -8.4375}
+      - {x: 207, y: -8.43747}
+      - {x: 207.00006, y: -8.375062}
+      - {x: 207.06252, y: -8.4375}
+      - {x: 208, y: -8.43747}
+      - {x: 208.00006, y: -8.375062}
+      - {x: 208.06252, y: -8.4375}
+      - {x: 209, y: -8.43747}
+      - {x: 209.00006, y: -8.375062}
+      - {x: 209.06252, y: -8.4375}
+      - {x: 210, y: -8.43747}
+      - {x: 210.00006, y: -8.375062}
+      - {x: 210.06252, y: -8.4375}
+      - {x: 211, y: -8.43747}
+      - {x: 211.00006, y: -8.375062}
+      - {x: 211.06252, y: -8.4375}
+      - {x: 212, y: -8.43747}
+      - {x: 212.00006, y: -8.375062}
+      - {x: 212.06252, y: -8.4375}
+      - {x: 213, y: -8.43747}
+      - {x: 213.00006, y: -8.375062}
+      - {x: 213.06252, y: -8.4375}
+      - {x: 214, y: -8.43747}
+      - {x: 214.00006, y: -8.375062}
+      - {x: 214.06252, y: -8.4375}
+      - {x: 215.00002, y: -8.43747}
+      - {x: 215.00006, y: -8.375062}
+      - {x: 215.0625, y: -8.4375}
+      - {x: 216, y: -8.43747}
+      - {x: 216.00006, y: -8.375062}
+      - {x: 216.06248, y: -8.4375}
+      - {x: 216.99998, y: -8.43747}
+      - {x: 217.00005, y: -8.375062}
+      - {x: 217.0625, y: -8.4375}
+      - {x: 218, y: -8.43747}
+      - {x: 218.00006, y: -8.375062}
+      - {x: 218.06248, y: -8.4375}
+      - {x: 218.9375, y: -8.437493}
+      - {x: 219.00002, y: -8.374989}
+      - {x: 218.99998, y: -8}
+      - {x: 202, y: -8.00003}
+      - {x: 202.00002, y: -8.375008}
+      - {x: 202.06252, y: -8.4375}
+    - - {x: 150.99997, y: -8.4375}
+      - {x: 151.00006, y: -8.375062}
+      - {x: 151.06252, y: -8.4375}
+      - {x: 152, y: -8.43747}
+      - {x: 152.00006, y: -8.375062}
+      - {x: 152.06252, y: -8.4375}
+      - {x: 152.93752, y: -8.437493}
+      - {x: 153.00003, y: -8.375021}
+      - {x: 153.06252, y: -8.4375}
+      - {x: 154, y: -8.43747}
+      - {x: 154.00006, y: -8.375062}
+      - {x: 154.06252, y: -8.4375}
+      - {x: 155, y: -8.43747}
+      - {x: 155.00006, y: -8.375062}
+      - {x: 155.06252, y: -8.4375}
+      - {x: 156, y: -8.43747}
+      - {x: 156.00006, y: -8.375062}
+      - {x: 156.06252, y: -8.4375}
+      - {x: 156.93752, y: -8.437493}
+      - {x: 157, y: -8.374989}
+      - {x: 156.99997, y: -8}
+      - {x: 150, y: -8.00003}
+      - {x: 150.00002, y: -8.375008}
+      - {x: 150.06252, y: -8.4375}
+  m_VertexDistance: 0.0005
+  m_OffsetDistance: 0.00005
+  m_UseDelaunayMesh: 0
+  m_CompositeGameObject: {fileID: 1350080421}
+--- !u!50 &1350080427
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1350080421}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!1 &1420119694
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1420119696}
+  - component: {fileID: 1420119695}
+  m_Layer: 0
+  m_Name: SonidoFondo
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1420119695
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1420119694}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 566a9cd5ac4794d45bf8f6f2a710732f, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.136
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1420119696
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1420119694}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 17.92112, y: 0.8709063, z: -0.06826174}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1426187159
 GameObject:
   m_ObjectHideFlags: 0
@@ -28413,10 +29193,9 @@ GameObject:
   - component: {fileID: 1426187164}
   - component: {fileID: 1426187163}
   - component: {fileID: 1426187162}
-  - component: {fileID: 1426187161}
   m_Layer: 0
   m_Name: platano (24)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28436,22 +29215,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1426187161
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1426187159}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &1426187162
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -28607,7 +29370,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1480231098}
-  - component: {fileID: 1480231099}
   m_Layer: 0
   m_Name: monedas
   m_TagString: Untagged
@@ -28633,22 +29395,6 @@ Transform:
   - {fileID: 85036137}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1480231099
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1480231097}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!1 &1514112974
 GameObject:
   m_ObjectHideFlags: 0
@@ -28797,10 +29543,9 @@ GameObject:
   - component: {fileID: 1554455080}
   - component: {fileID: 1554455079}
   - component: {fileID: 1554455078}
-  - component: {fileID: 1554455077}
   m_Layer: 0
   m_Name: platano (2)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28820,22 +29565,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1554455077
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1554455075}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &1554455078
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29100,7 +29829,6 @@ GameObject:
   - component: {fileID: 1573750923}
   - component: {fileID: 1573750922}
   - component: {fileID: 1573750921}
-  - component: {fileID: 1573750920}
   - component: {fileID: 1573750926}
   - component: {fileID: 1573750927}
   m_Layer: 0
@@ -29129,22 +29857,6 @@ RectTransform:
   m_AnchoredPosition: {x: 38.5, y: 20.8}
   m_SizeDelta: {x: -80, y: -79}
   m_Pivot: {x: 0.5, y: 0.64385915}
---- !u!114 &1573750920
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1573750918}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 1314617344}
-  trofeo: {fileID: 0}
 --- !u!61 &1573750921
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29291,10 +30003,9 @@ GameObject:
   - component: {fileID: 1604606475}
   - component: {fileID: 1604606481}
   - component: {fileID: 1604606480}
-  - component: {fileID: 1604606479}
   m_Layer: 0
   m_Name: platano
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29402,22 +30113,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1604606479
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1604606474}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 1514112976}
-  trofeo: {fileID: 0}
 --- !u!61 &1604606480
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29489,11 +30184,10 @@ GameObject:
   - component: {fileID: 1617120347}
   - component: {fileID: 1617120346}
   - component: {fileID: 1617120345}
-  - component: {fileID: 1617120344}
   - component: {fileID: 1617120343}
   m_Layer: 0
   m_Name: moneda (1)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29526,22 +30220,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puntost: {fileID: 612355957}
---- !u!114 &1617120344
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1617120341}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &1617120345
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29882,6 +30560,7 @@ GameObject:
   - component: {fileID: 1853075953}
   - component: {fileID: 1853075955}
   - component: {fileID: 1853075954}
+  - component: {fileID: 1853075956}
   m_Layer: 0
   m_Name: turtuga
   m_TagString: Untagged
@@ -30080,6 +30759,102 @@ MonoBehaviour:
   camara1: {fileID: 519420031}
   camara2: {fileID: 72170173}
   objetoDeActivacion: {fileID: 2116152847}
+--- !u!82 &1853075956
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1853075946}
+  m_Enabled: 0
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 6606ca0d6e788454886215a1598e6adb, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1.02
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 0.92
+  MinDistance: 1
+  MaxDistance: 6
+  Pan2D: -0.174
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.946
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &1895998673
 GameObject:
   m_ObjectHideFlags: 0
@@ -30094,10 +30869,9 @@ GameObject:
   - component: {fileID: 1895998678}
   - component: {fileID: 1895998677}
   - component: {fileID: 1895998676}
-  - component: {fileID: 1895998675}
   m_Layer: 0
   m_Name: platano (10)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30117,22 +30891,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1895998675
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1895998673}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &1895998676
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -30293,10 +31051,9 @@ GameObject:
   - component: {fileID: 1932855645}
   - component: {fileID: 1932855644}
   - component: {fileID: 1932855643}
-  - component: {fileID: 1932855642}
   m_Layer: 0
   m_Name: platano (15)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30316,22 +31073,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1932855642
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1932855640}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &1932855643
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -30492,10 +31233,9 @@ GameObject:
   - component: {fileID: 1973584902}
   - component: {fileID: 1973584901}
   - component: {fileID: 1973584900}
-  - component: {fileID: 1973584899}
   m_Layer: 0
   m_Name: platano (22)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30515,22 +31255,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1973584899
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1973584897}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &1973584900
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -30691,10 +31415,9 @@ GameObject:
   - component: {fileID: 2059361899}
   - component: {fileID: 2059361898}
   - component: {fileID: 2059361897}
-  - component: {fileID: 2059361896}
   m_Layer: 0
   m_Name: platano (16)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30714,22 +31437,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2059361896
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2059361894}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &2059361897
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -31104,10 +31811,9 @@ GameObject:
   - component: {fileID: 2078165943}
   - component: {fileID: 2078165942}
   - component: {fileID: 2078165941}
-  - component: {fileID: 2078165940}
   m_Layer: 0
   m_Name: platano (19)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31127,22 +31833,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2078165940
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2078165938}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &2078165941
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -31303,10 +31993,9 @@ GameObject:
   - component: {fileID: 2097646611}
   - component: {fileID: 2097646610}
   - component: {fileID: 2097646609}
-  - component: {fileID: 2097646608}
   m_Layer: 0
   m_Name: platano (13)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31326,22 +32015,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2097646608
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2097646606}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &2097646609
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -31502,10 +32175,9 @@ GameObject:
   - component: {fileID: 2110497195}
   - component: {fileID: 2110497194}
   - component: {fileID: 2110497193}
-  - component: {fileID: 2110497192}
   m_Layer: 0
   m_Name: platano (12)
-  m_TagString: Untagged
+  m_TagString: Moneda
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31525,22 +32197,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2118903006}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2110497192
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2110497190}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 0}
-  trofeo: {fileID: 0}
 --- !u!61 &2110497193
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -31704,6 +32360,8 @@ GameObject:
   - component: {fileID: 2116152853}
   - component: {fileID: 2116152856}
   - component: {fileID: 2116152855}
+  - component: {fileID: 2116152857}
+  - component: {fileID: 2116152858}
   m_Layer: 0
   m_Name: Pj_principal
   m_TagString: Untagged
@@ -31871,6 +32529,7 @@ MonoBehaviour:
     m_Bits: 8
   enelsuelo: 0
   correr: 1
+  saltando: 0
   dobleS: 0
 --- !u!111 &2116152853
 Animation:
@@ -31881,7 +32540,7 @@ Animation:
   m_GameObject: {fileID: 2116152847}
   m_Enabled: 1
   serializedVersion: 3
-  m_Animation: {fileID: 0}
+  m_Animation: {fileID: 7400000, guid: b5f84c2b0138b7644a92c83a0db0282f, type: 2}
   m_Animations: []
   m_WrapMode: 0
   m_PlayAutomatically: 1
@@ -32012,6 +32671,32 @@ AudioListener:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2116152847}
   m_Enabled: 1
+--- !u!114 &2116152857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2116152847}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18b96b3a865bc7d4884178be733144f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sonidoMoneda: {fileID: 8300000, guid: 9c8426600164ac54e891a4633727c1d2, type: 3}
+--- !u!114 &2116152858
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2116152847}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1c743f0d721e7f468c7c3de2cfa1ca3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sonidoSalto: {fileID: 8300000, guid: a8f207fa314554444bfab1e90c21743f, type: 3}
 --- !u!1 &2118903005
 GameObject:
   m_ObjectHideFlags: 0
@@ -32021,7 +32706,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2118903006}
-  - component: {fileID: 2118903007}
   m_Layer: 0
   m_Name: platanos
   m_TagString: Untagged
@@ -32069,22 +32753,6 @@ Transform:
   - {fileID: 241218270}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2118903007
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2118903005}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 516bb069fabf18645afb16960511681f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  totalscore: 0
-  totalscoreT: 0
-  text: {fileID: 1314617344}
-  trofeo: {fileID: 0}
 --- !u!1 &2124786027
 GameObject:
   m_ObjectHideFlags: 0
@@ -32426,3 +33094,4 @@ SceneRoots:
   - {fileID: 698976217}
   - {fileID: 1566656531}
   - {fileID: 829037366}
+  - {fileID: 1420119696}

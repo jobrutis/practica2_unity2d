@@ -18,6 +18,10 @@ public class moviemientoPJ : MonoBehaviour
     public bool correr;
     private Animator animator;
 
+    //Animacion salto
+    public bool saltando;
+    
+
     // Doble salto
     public int dobleS = 0; // Puedes ajustar el valor según tus necesidades
     private int saltosRealizados = 0;
@@ -48,6 +52,7 @@ public class moviemientoPJ : MonoBehaviour
         ProcessingMovement();
         Salto();
         enelsuelo = ComprobarSuelo();
+        animator.SetBool("saltando", !enelsuelo);
     }
 
     private void ProcessingMovement()
@@ -77,12 +82,14 @@ public class moviemientoPJ : MonoBehaviour
                 rigidBody.velocity = new Vector2(rigidBody.velocity.x, 0f);
                 rigidBody.AddForce(Vector2.up * velSalto, ForceMode2D.Impulse);
                 dobleS++; // Incrementa el número de saltos realizados
-            
+                saltando = true;
+               
         }
 
         // Restablecer la cantidad de saltos realizados cuando toca el suelo
         if (enelsuelo)
         {
+            
             dobleS = 0;
         }
     }
